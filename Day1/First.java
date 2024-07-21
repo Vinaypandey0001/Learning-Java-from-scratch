@@ -1,8 +1,4 @@
-package DAY1;
 
-/**
- * First
- */
 public class First {
 
     public static void main(String[] args) {
