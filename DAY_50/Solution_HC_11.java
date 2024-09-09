@@ -8,7 +8,7 @@ public class Solution_HC_11 {
         int start = sc.nextInt();
         int end = sc.nextInt();
 
-        // Step 2: Extract and print the substring (inclusive of 'start' and 'end')
-        System.out.println(s.substring(start, end + 1));
+        // Step 2: Extract and print the substring (inclusive of 'start' and exclusive of 'end')
+        System.out.println(s.substring(start, end));
     }
 }
