@@ -20,7 +20,7 @@ class VINNS {
     public static void main(String[] args)
     {
         Circle circle = new Circle(5.0);
-        System.out.println("Area of circle is "
+        System.out.println("Area of circle: "
                            + circle.getArea());
         System.out.println("Perimeter of circle is"
                            + circle.getPerimeter());
